@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/Prithv122/cohort-funnel/actions/workflows/ci.yml/badge.svg)](https://github.com/Prithv122/cohort-funnel/actions/workflows/ci.yml)
 
-**Live demo:** _not deployed yet — runs locally with one command (see §6)_
+**Live demo:** https://cohort-funnel-3msbfxga23gaevkbhy9haa.streamlit.app
 **Stack:** Python 3.13 · DuckDB · pandas · Streamlit · Plotly · pytest · ruff · GitHub Actions
 
 ---

@@ -20,8 +20,8 @@ No services, no accounts, no env vars — hence no `.env.example`.
 - [x] Cohort, retention and funnel analysis (CATALOG D2)
 - [x] Streamlit dashboard
 - [x] Product analytics + business framing — the campaign mix-shift finding
-- [ ] Deployed to Streamlit Community Cloud (Group 3 account) and linked in the README
-- [ ] Ship gate passes (`/ship`)
+- [x] Deployed to Streamlit Community Cloud (Group 3 account) and linked in the README
+- [x] Ship gate passes (`/ship`)
 
 ## Project-specific notes
 
