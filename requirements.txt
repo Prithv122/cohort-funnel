@@ -1,0 +1,5 @@
+# Streamlit Community Cloud installs from this file (it doesn't read pyproject.toml/uv.lock).
+# -e . installs this package in editable mode, pulling in the dependencies declared in
+# pyproject.toml (duckdb, pandas, plotly, streamlit) so `from cohortfunnel import ...`
+# resolves inside app.py.
+-e .
