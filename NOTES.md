@@ -59,6 +59,5 @@ which made it fire far too often; replaced with a plain per-referral-user probab
 
 ## Open questions
 
-- [ ] Deploy to Streamlit Community Cloud (needs the Group 3 account) and put the link in the README.
 - [ ] Add a consecutive-period retention mode alongside the unbounded one, so the dashboard can show both definitions side by side.
 - [ ] Confidence intervals on the per-cohort retention rates — with ~200-user cohorts, a 2pt difference is not obviously signal, and the campaign finding currently leans on the channel split to make its case.
